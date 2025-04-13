@@ -1,0 +1,1 @@
+this page is to check git is working in my laptop
